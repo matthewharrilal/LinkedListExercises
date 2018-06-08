@@ -1,0 +1,6 @@
+{
+  "linked_list_test.py::LinkedListTest::test_delete": true,
+  "linked_list_test.py::LinkedListTest::test_init_with_list": true,
+  "linked_list_test.py::LinkedListTest::test_reverse_linked_list_iterative": true,
+  "linked_list_test.py::NodeTest::test_init": true
+}
